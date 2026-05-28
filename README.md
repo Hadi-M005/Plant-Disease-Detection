@@ -40,7 +40,7 @@ A progressive plant disease detection pipeline built on the **PlantVillage datas
 - **Result:** 68% validation accuracy
 - **Limitation:** 12.6M parameters, 2.5 hours training on CPU, no spatial understanding
 
-![Stage 1 Results](plots/stage1_results.png)
+![Stage 1 Results](stage1_results.png)
 
 ---
 
@@ -59,7 +59,7 @@ A progressive plant disease detection pipeline built on the **PlantVillage datas
 - **Result:** 90% validation accuracy
 - **Improvement:** +22 percentage points over Stage 1, fewer parameters (8.4M)
 
-![Stage 2 Results](plots/stage2_results.png)
+![Stage 2 Results](stage2_results.png)
 
 ---
 
@@ -80,7 +80,7 @@ A progressive plant disease detection pipeline built on the **PlantVillage datas
   - Only 168K trainable parameters in Phase 1 (7% of total)
 - **Result:** 95.81% validation accuracy
 
-![Stage 3 Results](plots/stage3_results.png)
+![Stage 3 Results](stage3_results.png)
 
 ---
 
